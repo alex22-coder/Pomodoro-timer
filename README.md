@@ -116,7 +116,7 @@
 
 - [дисплей](https://ozon.ru/t/Zp02egn)  
 - [esp32 c3](https://ozon.ru/t/VaFTCcU)  
-- [Купить 3D-корпус на Озоне]((https://ozon.ru/t/gTY56p1) 
+- [Купить 3D-корпус на Озоне](https://ozon.ru/t/gTY56p1) 
 
 ---
 
